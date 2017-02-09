@@ -8,8 +8,11 @@
 
 Run the server:
 
-`npm start`
+`npm run dev`
 
+Generate static HTML files:
+
+`npm run generate`
 
 ## Sources
 
