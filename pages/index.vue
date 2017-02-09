@@ -6,6 +6,9 @@
     <p>
       <button v-on:click='updateGreeting'>Click me!</button>
     </p>
+    <p>
+      <nuxt-link to='/page2'>Check out Page 2</nuxt-link>
+    </p>
   </div>
 </template>
 
