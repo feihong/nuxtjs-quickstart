@@ -7,7 +7,7 @@
       <button v-on:click='updateGreeting'>Click me!</button>
     </p>
     <p>
-      <nuxt-link to='/page2'>Check out Page 2</nuxt-link>
+      <nuxt-link to='/page2'>Check out Page 2</nuxt-link> and <nuxt-link to='/page3'>Page 3</nuxt-link>
     </p>
   </div>
 </template>
